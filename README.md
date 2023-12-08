@@ -1,1 +1,2 @@
 # Gruber.S_FinalProject
+My project for the final was to look at cyanobacteria cell density levels and if the increase is correlated with an increase in nitrogen due to human activity. My data was collected from Kentucky and Indiana and was done by the US EPA.
